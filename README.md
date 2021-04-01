@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hey, I'm Joe (he/him)! 👋
+
+I'm a Full Stack Developer that uses my experience in construction, art direction, and IT to write software in React, Express, and PostgreSQL. I have a passion for thinking on my feet and working on close-knit teams that are challenged daily!
+
+## About me
+- 🌱 I'm currently learning Redux to expand my knowledge of state containment past React's Context technology using Stephen Grider's Udemy course, Modern React with Redux [2020].
+
+## Specialties
+- HTML | CSS | JavaScript ES6 | jQuery | React | React’s Context | Node.js | Express.js | Knex.js | PostgreSQL | NPM | Git | GitHub | OS X | Linux | RESTful APIs | Jest | Mocha | Chai | Canva
+
+## 📫 How to reach me
+- LinkedIn: https://www.linkedin.com/in/joe-wickes/
+- Email: joe.c.wickes[at]gmail.com
 
 <!--
 **joewickes/joewickes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
