@@ -4,7 +4,7 @@ I'm a Full Stack Developer that uses my experience in construction, art directio
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/joe-wickes/)
-- [Email](joe.c.wickes[at]gmail.com)
+- [Email](joe.c.wickes@gmail.com)
 
 ## 💼 Specialties
 HTML | CSS | JavaScript ES6 | jQuery | React | React’s Context | Node.js | Express.js | Knex.js | PostgreSQL | NPM | Git | GitHub | OS X | Linux | RESTful APIs | Jest | Mocha | Chai | Canva
