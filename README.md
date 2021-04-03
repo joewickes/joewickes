@@ -3,7 +3,7 @@
 I'm a Full Stack Developer that uses my experience in construction, art direction, and IT to write software in React, Express, and PostgreSQL. I have a passion for thinking on my feet and working on close-knit teams that are challenged daily!
 
 ## 💼 Specialties
-HTML | CSS | JavaScript ES6 | jQuery | React | React’s Context | Node.js | Express.js | Knex.js | PostgreSQL | NPM | Git | GitHub | VIM | OS X | Linux | RESTful APIs | Jest | Mocha | Chai | Canva
+HTML | CSS | JavaScript ES6 | jQuery | React | React’s Context | Node.js | Express.js | Knex.js | PostgreSQL | NPM | Git | GitHub | VIM | OS X | Linux | RESTful APIs | Jest | Mocha | Chai | Canva | Redux
 
 ## 🔍 About me
 My name is Joe and I am a Full Stack Web Developer in the Tampa, FL area with a background in construction, art direction, and IT. I really enjoy working with JavaScript, and am continually trying to hone my skills and learn more about different technologies associated with the programming language of the internet.
