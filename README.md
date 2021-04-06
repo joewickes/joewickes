@@ -12,7 +12,6 @@ One of the things that I love most about this field is the inundation of passion
 
 ## 🌱 Learning
 I'm currently learning:
-- ServiceNOW
 - Redux to expand my knowledge of state containment beyond React's Context technology (using Stephen Grider's Udemy course, Modern React with Redux [2020])
 - VIM so that I can make use of a lightweight text-editor from virtually any command-line
 - Linux so that I can grow in my understanding of (and contributions to) cyber-security and a ton of open-source tech
