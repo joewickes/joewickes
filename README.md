@@ -8,7 +8,7 @@ HTML | CSS | JavaScript ES6 | jQuery | React | React’s Context | Node.js | Exp
 ## 🔍 About me
 My name is Joe and I am a Full Stack Web Developer in the Tampa, FL area with a background in construction, art direction, and IT. I really enjoy working with JavaScript, and am continually trying to hone my skills and learn more about different technologies associated with the programming language of the internet.
 
-One of the things that I love most about this field is the inundation of passion and collaboration that so many professionals share. Because of that unqiue combination, software often seems to be evolving and growing at a much higher rate than other fields. I am continually impressed with open-source resources and look to contribute in the future.
+One of the things that I love most about this field is the inundation of passion and collaboration that so many professionals share. Because of that unqiue combination, software development often seems to be evolving and growing at a much higher rate than other fields. I am continually impressed with open-source resources and look to contribute in the future.
 
 ## 🌱 Learning
 I'm currently learning:
