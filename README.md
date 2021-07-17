@@ -12,6 +12,7 @@ One of the things that I love most about this field is the inundation of passion
 
 ## 🌱 Learning
 I'm currently learning:
+- React Native, to be able to create mobile apps on multiple platforms
 - Wordpress, since 40% of websites on the internet use it
 - TypeScript to familiarize myself with typing variables to learn lower-level languages in the future
 - Redux to expand my knowledge of state containment beyond React's Context technology (using Stephen Grider's Udemy course, Modern React with Redux [2020])
