@@ -7,7 +7,7 @@ HTML | CSS | SASS | JavaScript (ES6) | React | React’s Context | Node.js | Exp
 
 ## 🔍 About me
 
-I'm a Front End Developer based out of Tampa, FL working specifically with (React, SASS, Express). I also have experience in the Full Stack with PostgreSQL and MySQL enabling me to built entire web applications from start to finish.
+I'm a Front End Developer based out of Tampa, FL working specifically with (React, SASS, Express). I also have experience in the Full Stack with PostgreSQL and MySQL enabling me to build entire web applications from start to finish.
 
 One of the things that I love most about this field is the inundation of passion and collaboration that so many professionals share. Because of that unqiue combination, software development often seems to be evolving and growing at a much higher rate than other fields. I am continually impressed with open-source resources and look to contribute in the future.
 
