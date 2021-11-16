@@ -1,11 +1,13 @@
 # Hi there, I'm Joe! 👋🏼
 
-I'm a Full Stack Developer that uses my experience in construction, art direction, and IT to write software in React, Express, and PostgreSQL. Currently I am working full-time as a Front-end developer using React, SASS, and Express on a daily basis.
+I'm a Front End developer in Tampa, FL that uses React, SASS, and Express on a daily basis. I also have experience in the Full Stack with PostgreSQL and MySQL.
 
 ## 💼 Specialties
-HTML | CSS | JavaScript ES6 | jQuery | React | React’s Context | Node.js | Express.js | Knex.js | PostgreSQL | NPM | Git | GitHub | VIM | OS X | Linux | RESTful APIs | Jest | Mocha | Chai
+HTML | CSS | SASS | JavaScript (ES6) | React | React’s Context | Node.js | Express.js | PostgreSQL | MySQL | jQuery | NPM | yarn | Git | GitHub | VIM | OS X | Linux | RESTful APIs | Jest | Mocha | Chai
 
 ## 🔍 About me
+
+I'm a Front End Developer based out of Tampa, FL working specifically with (React, SASS, Express). I also have experience in the Full Stack with PostgreSQL and MySQL enabling me to built entire web applications from start to finish.
 
 One of the things that I love most about this field is the inundation of passion and collaboration that so many professionals share. Because of that unqiue combination, software development often seems to be evolving and growing at a much higher rate than other fields. I am continually impressed with open-source resources and look to contribute in the future.
 
