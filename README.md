@@ -1,4 +1,4 @@
-# Hi there, I'm Joe! 👋🏼
+# Hi there, I'm Joe! 👋
 
 I'm a Front End developer in Tampa, FL that uses React, SASS, and Express on a daily basis. I also have experience in the Full Stack with PostgreSQL and MySQL.
 
