@@ -3,7 +3,7 @@
 I'm a Front End developer in Tampa, FL that uses React, SASS, and Express on a daily basis. I also have experience in the Full Stack with PostgreSQL and MySQL.
 
 ## 💼 Specialties
-HTML | CSS | SASS | JavaScript (ES6) | React | React’s Context | Node.js | Express.js | PostgreSQL | MySQL | jQuery | NPM | yarn | Git | GitHub | VIM | OS X | Linux | RESTful APIs | Jest | Mocha | Chai
+HTML | CSS | SASS | JavaScript ES6 | React | React’s Context | Next.js | Node.js | Express.js | jQuery | PostgreSQL | MySQL | NPM | Git | GitHub | OS X | Linux | RESTful APIs | Jest | Mocha | Chai
 
 ## 🔍 About me
 
@@ -17,7 +17,6 @@ I'm currently learning:
 - TypeScript to familiarize myself with typing variables for redundancy/efficiency
 - Redux to expand my knowledge of state containment beyond React's Context technology
 - Linux/Unix so that I can grow in my understanding of (and contributions to) cyber-systems and open-source tech
-- Wordpress, since ~40% of websites use it
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/joe-wickes/)
