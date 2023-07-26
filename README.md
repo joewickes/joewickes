@@ -3,7 +3,7 @@
 I'm a Front End Developer in Tampa, FL that uses React, SASS, and Express on a daily basis. I also have more experience in the Full Stack with PostgreSQL and MySQL amongst other things.
 
 ## 💼 Other Things I Know
-HTML | CSS | SASS | JavaScript ES6 | React | React Hooks | React Class Components | React Context | Chai | Next.js | React Native | Node.js | Express.js | jQuery | MUI | Knex | Sequelize | PostgreSQL | MySQL | Git | GitHub | OS X | Linux | RESTful APIs | Jest | Mocha | Chai | DigitalOcean | App Store Connect | Google Play Console | Jenkins
+HTML | CSS | SASS | JavaScript ES6 | React | React Hooks | React Class Components | React Context | Chai | Next.js | React Native | Node.js | Express.js | jQuery | MUI | Knex | Sequelize | Postgres | MySQL | Git | GitHub | OS X | Linux | RESTful APIs | Jest | Mocha | Chai | DigitalOcean | App Store Connect | Google Play Console | Jenkins
 
 ## 🔍 About me
 I write, debug, and maintain web and mobile apps. I'm always up for learning new things and solving problems!
